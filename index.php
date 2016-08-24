@@ -17,7 +17,7 @@
 
                 <div class="col-lg-9 col-lg-offset-2">
 
-                    <h1>Send SMS (Free Mobile) form by <a href="http://www.beemoon.fr">www.beemoon.fr</a></h1>
+                    <h1>Send SMS (<a href="https://www.freenews.fr/freenews-edition-nationale-299/free-mobile-170/nouvelle-option-notifications-par-sms-chez-free-mobile-14817" target="_blank">Free Mobile</a>) form by <a href="http://www.beemoon.fr">www.beemoon.fr</a></h1>
 
                     <legend class="lead"><p>This is a SMS sending demonstration with Bootstrap form, PHP and AJAX background.</p><p>None UserID or password are stored or saved.</p></legend>
 					<p></p>
